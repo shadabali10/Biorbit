@@ -1,0 +1,68 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 May 2024 11:15:56 at https://wpriverthemes.com/synck/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpriverthemes.com/synck/ -O1 "C:\Users\LENOVO\3D Objects\Biorbit2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:16:59	Error: 	"Method Not Allowed" (405) at link https://wpriverthemes.com/synck/xmlrpc.php (from https://wpriverthemes.com/synck/)
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=1428
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=1428 to https://wpriverthemes.com/synck/about-us/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3182
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3182 to https://wpriverthemes.com/synck/contact/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=506
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=506 to https://wpriverthemes.com/synck/home-version2/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2439
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2439 to https://wpriverthemes.com/synck/company/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=1643
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=1643 to https://wpriverthemes.com/synck/partners/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3084
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3084 to https://wpriverthemes.com/synck/careers/
+11:20:49	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3777
+11:20:49	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3777 to https://wpriverthemes.com/synck/events/
+11:20:54	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2691
+11:20:54	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2691 to https://wpriverthemes.com/synck/team/
+11:20:54	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3487
+11:20:54	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3487 to https://wpriverthemes.com/synck/blog/
+11:20:54	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2624
+11:20:54	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2624 to https://wpriverthemes.com/synck/overview/
+11:20:54	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2324
+11:20:54	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2324 to https://wpriverthemes.com/synck/our-pricing/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2464
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2464 to https://wpriverthemes.com/synck/features/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3690
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3690 to https://wpriverthemes.com/synck/case-studies/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3890
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3890 to https://wpriverthemes.com/synck/new-releases/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=1975
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=1975 to https://wpriverthemes.com/synck/solutions/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=4234
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=4234 to https://wpriverthemes.com/synck/case-studie-single/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2956
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2956 to https://wpriverthemes.com/synck/portfolio/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3457
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3457 to https://wpriverthemes.com/synck/portfolio-detail/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2234
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2234 to https://wpriverthemes.com/synck/services/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3436
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3436 to https://wpriverthemes.com/synck/how-we-do-single/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2794
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2794 to https://wpriverthemes.com/synck/service-details/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2886
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2886 to https://wpriverthemes.com/synck/our-field-details/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2081
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2081 to https://wpriverthemes.com/synck/faq/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=2739
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=2739 to https://wpriverthemes.com/synck/how-we-do/
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=4300
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=4300 to https://wpriverthemes.com/synck/blog-details-4/
+11:20:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/synck/Version/ (from https://wpriverthemes.com/synck/wp-content/themes/synck/assets/js/swiper-bundle.min.js?ver=6.5.3)
+11:20:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/synck/t.params.url (from https://wpriverthemes.com/synck/wp-content/themes/synck/assets/js/swiper-bundle.min.js?ver=6.5.3)
+11:20:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/synck/-negative.svg (from https://wpriverthemes.com/synck/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+11:20:55	Error: 	"Not Found" (404) at link https://wpriverthemes.com/synck/OPR/ (from https://wpriverthemes.com/synck/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.5)
+11:20:55	Warning: 	Moved Permanently for https://wpriverthemes.com/synck/?p=3394
+11:20:55	Warning: 	File has moved from https://wpriverthemes.com/synck/?p=3394 to https://wpriverthemes.com/synck/event-single/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 59 seconds : 458 links scanned, 426 files written (17887215 bytes overall) [9385822 bytes received at 31390 bytes/sec], 11874107 bytes transferred using HTTP compression in 284 files, ratio 24%, 12.8 requests per connection
+(5 errors, 52 warnings, 0 messages)
